@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "volUfTLH9Kl9AsOzRbliV4/uaC3X9+iF8WVYQfwiNRor22gdqW+G1DQGW7wnwjnnpuQE2o129qBEEKGQ+HFAcQ==",
+  "dgSpecHash": "DZMAbjAXr8ADeUBg5CLj5GKaovDPACZarZ3UmtQeXWkj4dzjP/nPzWuZNv3hnZd2pKfhyiHk4g9DeJClA5oGnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\RazorTest.csproj",
+  "projectFilePath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\RazorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",

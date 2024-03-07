@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\RazorTest.csproj": {}
+    "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\RazorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\RazorTest.csproj": {
+    "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\RazorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\RazorTest.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\RazorTest.csproj",
         "projectName": "RazorTest",
-        "projectPath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\RazorTest.csproj",
+        "projectPath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\RazorTest.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorTest\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Desktop\\RazorTest\\RazorPageApp\\RazorTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config",
